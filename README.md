@@ -2,6 +2,17 @@
   <img src="https://private-user-images.githubusercontent.com/49461213/553116614-5afa1309-34f2-42aa-b889-79a64d2f24c8.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE3MzkzNzIsIm5iZiI6MTc3MTczOTA3MiwicGF0aCI6Ii80OTQ2MTIxMy81NTMxMTY2MTQtNWFmYTEzMDktMzRmMi00MmFhLWI4ODktNzlhNjRkMmYyNGM4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjIyVDA1NDQzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdmOTBlNzRmZDc5NDQ0MGYwNTY1Zjg0YTlhNWM4OGU1ZDZkYzVjZWIwMzdiZjJjZDcyMWQ2OTQxNWJhYWVmN2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.d8c3ouL9J_D6zYVxg9ueqxU6h6sYNsSGptuZDuWbW5c" alt="NRFTW Interactive World Map" width="100%" />
 </p>
 
+## 🎮 NRFTW Interactive Map
+
+![Status](https://img.shields.io/badge/status-active-success)
+![Build](https://img.shields.io/badge/build-stable-blue)
+![Community](https://img.shields.io/badge/community-discord-5865F2)
+![Contributions](https://img.shields.io/badge/contributions-welcome-orange)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
+An interactive world map for **No Rest for the Wicked**  
+Built for clarity, precision, and gameplay flow.
+
 <h1 align="center">NRFTW Interactive World Map</h1>
 
 <p align="center">
