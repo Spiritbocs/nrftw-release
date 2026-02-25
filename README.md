@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/49461213/553116614-5afa1309-34f2-42aa-b889-79a64d2f24c8.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE3MzkzNzIsIm5iZiI6MTc3MTczOTA3MiwicGF0aCI6Ii80OTQ2MTIxMy81NTMxMTY2MTQtNWFmYTEzMDktMzRmMi00MmFhLWI4ODktNzlhNjRkMmYyNGM4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjIyVDA1NDQzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdmOTBlNzRmZDc5NDQ0MGYwNTY1Zjg0YTlhNWM4OGU1ZDZkYzVjZWIwMzdiZjJjZDcyMWQ2OTQxNWJhYWVmN2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.d8c3ouL9J_D6zYVxg9ueqxU6h6sYNsSGptuZDuWbW5c" alt="NRFTW Interactive World Map" width="100%" />
+  <img width="1916" height="861" alt="Interactive Map Desktop App" src="https://github.com/user-attachments/assets/6227319a-42b7-4d15-a454-b89e4c2a47e3" />
+
 </p>
 
 ## 🎮 NRFTW Interactive Map
